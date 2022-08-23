@@ -39,6 +39,7 @@ p {
 .hero {
   background: #f9f7fe;
   text-align: center;
+  padding: 50px;
 }
 .hero h2 {
   font-size: 36px;
