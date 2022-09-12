@@ -58,6 +58,10 @@ p {
   justify-content: center;
 }
 
+.hero border-warning {
+  border: var(--primary-color);
+}
+
 .navigation-links a {
   margin: 20px;
   border-radius: 4px;
@@ -112,7 +116,5 @@ p {
   color: var(--primary-color);
   font-weight: bolder;
   text-decoration: underline;
-}
-#navbarNavAltMarkup {
-  color: aliceblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
