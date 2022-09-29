@@ -130,3 +130,13 @@ p {
   border: black;
   padding: 0;
 }
+.content h3 {
+  font-size: 24px;
+  padding-top: 10px;
+  line-height: 1.5;
+  font-family: monospace;
+  font-weight: bolder;
+}
+.content p {
+  font-size: 14px;
+}
