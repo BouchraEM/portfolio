@@ -19,7 +19,7 @@ h3 {
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 60px;
   padding-bottom: 20px;
 }
 
@@ -119,15 +119,6 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#contactinsta {
-  max-width: 250px;
-  padding: 0;
-  max-height: 250px;
-}
-#contactimg {
-  border: black;
-  padding: 0;
-}
 .content h3 {
   font-size: 24px;
   margin: 20px 0;
@@ -139,4 +130,20 @@ p {
   font-size: 14px;
   padding: 0;
   opacity: 0.7;
+}
+#contactinsta {
+  max-width: 250px;
+  max-height: 200px;
+}
+#contactimg {
+  max-width: 250px;
+  max-height: 200px;
+}
+#contactlink {
+  max-width: 300px;
+  max-height: 200px;
+}
+.contactme img {
+  padding: 0;
+  text-align: center;
 }
