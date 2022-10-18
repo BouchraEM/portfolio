@@ -9,8 +9,9 @@ body {
   max-width: 1000px;
   background: white;
   color: black;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "montserrat", sans-serif;
 }
+@import url("http://fonts.cdnfonts.com/css/montserrat?styles=17398");
 
 h1,
 h3 {
